@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition</a></div>
+    <div class="title"><a src="assets/paper/3517252.pdf">Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition</a></div>
     <div class="author"><strong>Jie Su</strong>, Zhenyu Wen, Tao Lin, Yu Guan</div>
     <div class="periodical"><em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <strong>(IMWUT)</strong>, 2022.</em></div>
     <div class="links">
