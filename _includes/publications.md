@@ -12,7 +12,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/paper/3517253.pdf">ESP Spoofing: Covert Acoustic Attack on MEMS Gyroscopes in Vehicles</a></div>
-    <div class="author">Zhen Hong, Xiong Li, Zhenyu Wen, Leiqiang Zhou, Huan Chen, <strong>Jie Su<sup>&#134</sup></strong></div>
+    <div class="author">Zhen Hong, Xiong Li, Zhenyu Wen, Leiqiang Zhou, Huan Chen, <strong>Jie Su<sup>†</sup></strong></div>
     <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2022.</em></div>
     <div class="links">
       <a href="assets/paper/3517253.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
