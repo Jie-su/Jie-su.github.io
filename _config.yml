@@ -1,4 +1,4 @@
-# Basic Information 
+# Basic Information
 title: Jie Su
 position: Ph.D. Student
 affiliation: Newcastle University
@@ -18,8 +18,8 @@ github_link: https://github.com/Jie-su
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/jiesu.JPG
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
