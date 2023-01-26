@@ -60,7 +60,7 @@
     <div class="periodical"><em>ACM Computing Surveys<strong>(CSUR)</strong>, 2020.</em></div>
     <div class="links">
       <a href="assets/paper/3398020.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://dblp.uni-trier.de/rec/journals/imwut/SuWLG22.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://dblp.uni-trier.de/rec/journals/csur/QianSWJLGPJYZRW20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
     </div>
   </div>
