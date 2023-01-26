@@ -23,4 +23,4 @@ My research lies at the intersection of signal processing and machine learning â
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
