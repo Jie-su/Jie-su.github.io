@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a style="font-size:15px;">†: Corresponding authorship, *: Equal contribution</a><temp style="font-size:15px;">]</temp></h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[†: Corresponding authorship, *: Equal contribution]</temp></h2>
 
 <div class="publications">
 <ol class="bibliography">
