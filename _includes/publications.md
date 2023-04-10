@@ -5,6 +5,26 @@
 <!-- ####################################Start##################################-->
 <li>
 <div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/3517254.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IJCNN</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Towards Few-shot Image captioning with Cycle-based Compositional Semantic Enhancement Framework</a></div>
+    <div class="author">Peng Zhang<sup>*</sup>, Yang Bai<sup>*</sup>, <strong>Jie Su</strong>, Yan Huang, Yang Long<sup>†</sup></div>
+    <div class="periodical"><em> IEEE International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="assets/paper/3517255.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+<!-- #####################################End###################################-->
+<!-- ####################################Start##################################-->
+<li>
+<div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3517254.png" class="teaser img-fluid z-depth-1">
