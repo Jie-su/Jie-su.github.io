@@ -35,8 +35,8 @@
     <div class="author">Peng Sun<sup>*</sup>, <strong>Jie Su<sup>*</sup></strong>, Zhenyu Wen, Yejian Zhou, Zhen Hong, Shanqing Yu, Huaji Zhou</div>
     <div class="periodical"><em>IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2023.</em></div>
     <div class="links">
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="assets/paper/3517254.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://ieeexplore.ieee.org/abstract/document/10094893" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
     </div>
   </div>
 </div>
