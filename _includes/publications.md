@@ -52,7 +52,7 @@
     <abbr class="badge">TIFS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/paper/3517253.pdf">ESP Spoofing: Covert Acoustic Attack on MEMS Gyroscopes in Vehicles</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/9903073">ESP Spoofing: Covert Acoustic Attack on MEMS Gyroscopes in Vehicles</a></div>
     <div class="author">Zhen Hong, Xiong Li, Zhenyu Wen, Leiqiang Zhou, Huan Chen, <strong>Jie Su<sup>†</sup></strong></div>
     <div class="periodical"><em>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2022.</em></div>
     <div class="links">
@@ -73,7 +73,7 @@
 </div>
 
 <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/paper/3517252.pdf">Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition</a></div>
+    <div class="title"><a href="https://dl.acm.org/doi/10.1145/3517252">Learning Disentangled Behaviour Patterns for Wearable-based Human Activity Recognition</a></div>
     <div class="author"><strong>Jie Su</strong>, Zhenyu Wen, Tao Lin, Yu Guan</div>
     <div class="periodical"><em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies <strong>(IMWUT)</strong>, 2022.</em></div>
     <div class="links">
@@ -97,7 +97,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="assets/paper/3398020.pdf">Orchestrating the Development Lifecycle of Machine Learning-based IoT Applications: A Taxonomy and Survey</a></div>
+    <div class="title"><a href="https://dl.acm.org/doi/10.1145/3398020">Orchestrating the Development Lifecycle of Machine Learning-based IoT Applications: A Taxonomy and Survey</a></div>
     <div class="author">Bin Qian, <strong>Jie Su</strong>, Zhenyu Wen, Devki Nandan Jha, Yinhao Li, Yu Guan, Deepak Puthal, Philip James, Renyu Yang, Albert Y. Zomaya, Omer Rana, Maciej Koutny, Rajiv Ranjan</div>
     <div class="periodical"><em>ACM Computing Surveys <strong>(CSUR)</strong>, 2020.</em></div>
     <div class="links">
