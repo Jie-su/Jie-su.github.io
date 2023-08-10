@@ -10,12 +10,12 @@
     <abbr class="badge">IJCNN</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Towards Few-shot Image captioning with Cycle-based Compositional Semantic Enhancement Framework</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10191558">Towards Few-shot Image captioning with Cycle-based Compositional Semantic Enhancement Framework</a></div>
     <div class="author">Peng Zhang<sup>*</sup>, Yang Bai<sup>*</sup>, <strong>Jie Su</strong>, Yan Huang, Yang Long<sup>†</sup></div>
     <div class="periodical"><em> IEEE International Joint Conference on Neural Networks <strong>(IJCNN)</strong>, 2023.</em></div>
     <div class="links">
       <a href="assets/paper/3517255.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://dblp.uni-trier.de/rec/conf/ijcnn/ZhangBSHL23.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
