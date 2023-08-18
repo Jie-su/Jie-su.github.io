@@ -6,6 +6,26 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/3517256.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Mathematics</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.mdpi.com/2227-7390/11/16/3578">Towards Variational Disentangle Zero-Shot Learning</a></div>
+    <div class="author"><strong>Jie Su</strong>, Jinhao Wan<sup>†</sup>, Taotao Li, Xiong Li, Yuheng Ye</div>
+    <div class="periodical"><em> Mathematics, 2023.</em></div>
+    <div class="links">
+      <a href="assets/paper/3517256.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+<!-- #####################################End###################################-->
+<!-- ####################################Start##################################-->
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3517255.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IJCNN</abbr>
   </div>
