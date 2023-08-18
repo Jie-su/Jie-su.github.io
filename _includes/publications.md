@@ -10,7 +10,7 @@
     <abbr class="badge">Mathematics</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.mdpi.com/2227-7390/11/16/3578">Towards Variational Disentangle Zero-Shot Learning</a></div>
+    <div class="title"><a href="https://www.mdpi.com/2227-7390/11/16/3578">Variational Disentangle Zero-Shot Learning</a></div>
     <div class="author"><strong>Jie Su</strong>, Jinhao Wan<sup>†</sup>, Taotao Li, Xiong Li, Yuheng Ye</div>
     <div class="periodical"><em> Mathematics, 2023.</em></div>
     <div class="links">
