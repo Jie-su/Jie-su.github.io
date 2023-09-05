@@ -1,9 +1,6 @@
-<head>
-    ...
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="assets/js/filter.js"></script>
-    ...
-</head>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="assets/js/filter.js"></script>
+
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[†: Corresponding authorship, *: Equal contribution]</temp></h2>
 
