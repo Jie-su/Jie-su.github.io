@@ -10,9 +10,7 @@
     <span style="margin-left: 5px; margin-right: 5px;">|</span>
     <a href="#" onclick="filterByAttribute('year', '2023')" style="font-size:15px;">2023</a>
     <span style="margin-left: 5px; margin-right: 5px;">|</span>
-    <a href="#" onclick="filterByAttribute('year', '2022')" style="font-size:15px;">2022</a>
-    <span style="margin-left: 5px; margin-right: 5px;">|</span>
-    <a href="#" onclick="filterByAttribute('year', '2020')" style="font-size:15px;">2020</a>
+    <a href="#" onclick="filterByAttribute('year', '2020-2022')" style="font-size:15px;">2022</a>
     <temp style="font-size:15px;">]</temp>
 </div>
 
@@ -145,7 +143,7 @@
 <br>
 <!-- #####################################End###################################-->
 <!-- ####################################Start##################################-->
-<li data-year="2020">
+<li data-year="2022">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3398020.png" class="teaser img-fluid z-depth-1">
