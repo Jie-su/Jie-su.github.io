@@ -1,10 +1,15 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[†: Corresponding authorship, *: Equal contribution]</temp></h2>
 
-<div id="yearFilter">
-    <button onclick="filterByYear('selected')">Selected</button>
-    <button onclick="filterByYear('2023')">2023</button>
-    <button onclick="filterByYear('2022')">2022</button>
-    <button onclick="filterByYear('2021')">2021</button>
+<div id="yearFilter" style="margin-top: 10px;">
+    <temp style="font-size:15px;">[</temp>
+    <a href="#" onclick="filterByYear('selected')" style="font-size:15px;">Selected</a>
+    <span style="margin-left: 5px; margin-right: 5px;">|</span>
+    <a href="#" onclick="filterByYear('2023')" style="font-size:15px;">2023</a>
+    <span style="margin-left: 5px; margin-right: 5px;">|</span>
+    <a href="#" onclick="filterByYear('2022')" style="font-size:15px;">2022</a>
+    <span style="margin-left: 5px; margin-right: 5px;">|</span>
+    <a href="#" onclick="filterByYear('2021')" style="font-size:15px;">2021</a>
+    <temp style="font-size:15px;">]</temp>
 </div>
 
 
