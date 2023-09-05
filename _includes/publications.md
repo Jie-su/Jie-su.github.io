@@ -6,6 +6,26 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/3517257.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Mathematics</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10225590">Edge-SAR-Assisted Multimodal Fusion for Enhanced Cloud Removal</a></div>
+    <div class="author">Zhenyu Wen, Jiahui Suo, <strong>Jie Su</strong>, Bingning Li, Yejian Zhou</div>
+    <div class="periodical"><em> IEEE Geoscience and Remote Sensing Letters <strong>(IGRSL)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="assets/paper/3517257.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+<!-- #####################################End###################################-->
+<!-- ####################################Start##################################-->
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3517256.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Mathematics</abbr>
   </div>
