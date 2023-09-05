@@ -1,3 +1,4 @@
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[†: Corresponding authorship, *: Equal contribution]</temp></h2>
 
 <div id="yearFilter" style="margin-top: 10px;">
@@ -164,24 +165,3 @@
 <!-- #####################################End###################################-->
 </ol>
 </div>
-
-<script>
-function filterByTag(tag) {
-    // 获取所有的论文条目
-    let items = document.querySelectorAll('.publications .bibliography li');
-
-    items.forEach(item => {
-        // 如果该条目有匹配的data-tag属性，则显示该条目
-        if (item.getAttribute('data-tag') == tag) {
-            item.style.display = 'block';
-        } else {
-            item.style.display = 'none';
-        }
-    });
-}
-
-// 默认显示 selected 的内容
-window.onload = function() {
-    filterByTag('selected');
-}
-</script>
