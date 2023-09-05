@@ -10,7 +10,7 @@
     <span style="margin-left: 5px; margin-right: 5px;">|</span>
     <a href="#" onclick="filterByAttribute('year', '2023')" style="font-size:15px;">2023</a>
     <span style="margin-left: 5px; margin-right: 5px;">|</span>
-    <a href="#" onclick="filterByAttribute('year', '2020-2022')" style="font-size:15px;">2022</a>
+    <a href="#" onclick="filterByAttribute('year', '2022')" style="font-size:15px;">2020-2022</a>
     <temp style="font-size:15px;">]</temp>
 </div>
 
