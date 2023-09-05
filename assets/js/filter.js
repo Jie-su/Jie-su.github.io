@@ -3,7 +3,7 @@ function filterByAttribute(attribute, value) {
 
     items.forEach(item => {
         if (item.getAttribute('data-' + attribute) == value) {
-            item.style.display = 'block';
+            item.style.display = 'list-item';
         } else {
             item.style.display = 'none';
         }
