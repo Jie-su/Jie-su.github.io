@@ -8,15 +8,14 @@
     <span style="margin-left: 5px; margin-right: 5px;">|</span>
     <a href="#" onclick="filterByYear('2022')" style="font-size:15px;">2022</a>
     <span style="margin-left: 5px; margin-right: 5px;">|</span>
-    <a href="#" onclick="filterByYear('2021')" style="font-size:15px;">2021</a>
+    <a href="#" onclick="filterByYear('2020')" style="font-size:15px;">2020</a>
     <temp style="font-size:15px;">]</temp>
 </div>
-
 
 <div class="publications">
 <ol class="bibliography">
 <!-- ####################################Start##################################-->
-<li>
+<li data-year="2023">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3517257.png" class="teaser img-fluid z-depth-1">
@@ -36,7 +35,7 @@
 <br>
 <!-- #####################################End###################################-->
 <!-- ####################################Start##################################-->
-<li>
+<li data-year="2023">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3517256.png" class="teaser img-fluid z-depth-1">
@@ -56,7 +55,7 @@
 <br>
 <!-- #####################################End###################################-->
 <!-- ####################################Start##################################-->
-<li>
+<li data-year="2023">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3517255.png" class="teaser img-fluid z-depth-1">
@@ -76,7 +75,7 @@
 <br>
 <!-- #####################################End###################################-->
 <!-- ####################################Start##################################-->
-<li>
+<li data-year="2023" data-tag="selected">
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -97,7 +96,7 @@
 <br>
 <!-- #####################################End###################################-->
 <!-- ####################################Start##################################-->
-<li>
+<li data-year="2022" data-tag="selected">
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -118,7 +117,7 @@
 <br>
 <!-- #####################################End###################################-->
 <!-- ####################################Start##################################-->
-<li>
+<li data-year="2022" data-tag="selected">
 <div class="pub-row">
 <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
 <img src="assets/img/3517252.png" class="teaser img-fluid z-depth-1">
@@ -142,7 +141,7 @@
 <br>
 <!-- #####################################End###################################-->
 <!-- ####################################Start##################################-->
-<li>
+<li data-year="2020">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3398020.png" class="teaser img-fluid z-depth-1">
@@ -165,3 +164,24 @@
 <!-- #####################################End###################################-->
 </ol>
 </div>
+
+<script>
+function filterByTag(tag) {
+    // 获取所有的论文条目
+    let items = document.querySelectorAll('.publications .bibliography li');
+
+    items.forEach(item => {
+        // 如果该条目有匹配的data-tag属性，则显示该条目
+        if (item.getAttribute('data-tag') == tag) {
+            item.style.display = 'block';
+        } else {
+            item.style.display = 'none';
+        }
+    });
+}
+
+// 默认显示 selected 的内容
+window.onload = function() {
+    filterByTag('selected');
+}
+</script>
