@@ -6,13 +6,13 @@
 
 <div id="yearFilter" style="margin-top: 10px;">
     <temp style="font-size:15px;">[</temp>
-    <a href="#" onclick="filterByTag('selected')" style="font-size:15px;">Selected</a>
+    <a href="#" onclick="filterByAttribute('selected', 'true')" style="font-size:15px;">Selected</a>
     <span style="margin-left: 5px; margin-right: 5px;">|</span>
-    <a href="#" onclick="filterByTag('2023')" style="font-size:15px;">2023</a>
+    <a href="#" onclick="filterByAttribute('year', '2023')" style="font-size:15px;">2023</a>
     <span style="margin-left: 5px; margin-right: 5px;">|</span>
-    <a href="#" onclick="filterByTag('2022')" style="font-size:15px;">2022</a>
+    <a href="#" onclick="filterByAttribute('year', '2022')" style="font-size:15px;">2022</a>
     <span style="margin-left: 5px; margin-right: 5px;">|</span>
-    <a href="#" onclick="filterByTag('2020')" style="font-size:15px;">2020</a>
+    <a href="#" onclick="filterByAttribute('year', '2020')" style="font-size:15px;">2020</a>
     <temp style="font-size:15px;">]</temp>
 </div>
 
@@ -59,7 +59,7 @@
 <br>
 <!-- #####################################End###################################-->
 <!-- ####################################Start##################################-->
-<li data-year="2023">
+<li data-year="2023>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3517255.png" class="teaser img-fluid z-depth-1">
@@ -79,7 +79,7 @@
 <br>
 <!-- #####################################End###################################-->
 <!-- ####################################Start##################################-->
-<li data-year="2023" data-tag="selected">
+<li data-year="2023" data-selected="true">
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -100,7 +100,7 @@
 <br>
 <!-- #####################################End###################################-->
 <!-- ####################################Start##################################-->
-<li data-year="2022" data-tag="selected">
+<li data-year="2022" data-selected="true">
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -121,7 +121,7 @@
 <br>
 <!-- #####################################End###################################-->
 <!-- ####################################Start##################################-->
-<li data-year="2022" data-tag="selected">
+<li data-year="2023" data-selected="true">
 <div class="pub-row">
 <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
 <img src="assets/img/3517252.png" class="teaser img-fluid z-depth-1">

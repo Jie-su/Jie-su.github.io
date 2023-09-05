@@ -1,18 +1,16 @@
-function filterByTag(tag) {
-    // 获取所有的论文条目
+function filterByAttribute(attribute, value) {
     let items = document.querySelectorAll('.publications .bibliography li');
-  
+
     items.forEach(item => {
-        // 如果该条目有匹配的data-tag属性，则显示该条目
-        if (item.getAttribute('data-tag') == tag) {
+        if (item.getAttribute('data-' + attribute) == value) {
             item.style.display = 'block';
         } else {
             item.style.display = 'none';
         }
     });
-  }
-  
-  // 默认显示 selected 的内容
-  window.onload = function() {
-    filterByTag('selected');
-  }
+}
+
+// 默认显示 selected 的内容
+window.onload = function() {
+    filterByAttribute('selected', 'true');
+}
