@@ -6,13 +6,13 @@
 
 <div id="yearFilter" style="margin-top: 10px;">
     <temp style="font-size:15px;">[</temp>
-    <a href="#" onclick="filterByYear('selected')" style="font-size:15px;">Selected</a>
+    <a href="#" onclick="filterByTag('selected')" style="font-size:15px;">Selected</a>
     <span style="margin-left: 5px; margin-right: 5px;">|</span>
-    <a href="#" onclick="filterByYear('2023')" style="font-size:15px;">2023</a>
+    <a href="#" onclick="filterByTag('2023')" style="font-size:15px;">2023</a>
     <span style="margin-left: 5px; margin-right: 5px;">|</span>
-    <a href="#" onclick="filterByYear('2022')" style="font-size:15px;">2022</a>
+    <a href="#" onclick="filterByTag('2022')" style="font-size:15px;">2022</a>
     <span style="margin-left: 5px; margin-right: 5px;">|</span>
-    <a href="#" onclick="filterByYear('2020')" style="font-size:15px;">2020</a>
+    <a href="#" onclick="filterByTag('2020')" style="font-size:15px;">2020</a>
     <temp style="font-size:15px;">]</temp>
 </div>
 
