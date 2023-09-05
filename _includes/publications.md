@@ -59,7 +59,7 @@
 <br>
 <!-- #####################################End###################################-->
 <!-- ####################################Start##################################-->
-<li data-year="2023>
+<li data-year="2023">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3517255.png" class="teaser img-fluid z-depth-1">
