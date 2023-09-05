@@ -1,5 +1,13 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[†: Corresponding authorship, *: Equal contribution]</temp></h2>
 
+<div id="yearFilter">
+    <button onclick="filterByYear('selected')">Selected</button>
+    <button onclick="filterByYear('2023')">2023</button>
+    <button onclick="filterByYear('2022')">2022</button>
+    <button onclick="filterByYear('2021')">2021</button>
+</div>
+
+
 <div class="publications">
 <ol class="bibliography">
 <!-- ####################################Start##################################-->
@@ -7,7 +15,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3517257.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Mathematics</abbr>
+    <abbr class="badge">IGRSL</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10225590">Edge-SAR-Assisted Multimodal Fusion for Enhanced Cloud Removal</a></div>
