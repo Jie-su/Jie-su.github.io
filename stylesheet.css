@@ -367,12 +367,12 @@ heading {
   text-decoration-color: #fba524;
 }
 
-.news-latest-alert {
+.news-latest-emoji {
   display: inline-block;
-  width: 10px;
-  height: 14px;
   margin-left: 3px;
-  vertical-align: -2px;
+  font-size: 14px;
+  line-height: 1;
+  vertical-align: -1px;
 }
 .news-text {
   font-size: 14px;
