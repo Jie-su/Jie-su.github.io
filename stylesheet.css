@@ -485,6 +485,35 @@ papertitle {
   min-width: 76px;
 }
 
+.language-switch {
+  position: fixed;
+  z-index: 20;
+  top: 18px;
+  right: max(18px, calc((100vw - 800px) / 2));
+  padding: 6px 10px;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.94);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.02);
+  color: #1677ff;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.language-switch:hover,
+.language-switch:focus-visible {
+  border-color: #4096ff;
+  background: #fff;
+  color: #0958d9;
+}
+
+.language-switch:focus-visible {
+  outline: 3px solid rgba(22, 119, 255, 0.2);
+  outline-offset: 1px;
+}
+
 .grant-list {
   margin: 0;
   padding: 0;
