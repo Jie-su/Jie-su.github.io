@@ -150,8 +150,6 @@
   </section>
 
   <button id="backToTop" onclick="scrollToTop()" title="Back to top"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"/></svg></button>
-  <div id="toast" class="toast-message">✅ Copied</div>
-
   <script>
     const publications = [
       { year: '2026', topic: 'Computer Vision', title: 'Struct-Align: Zero-Shot Text-to-3D Scene Retrieval via Locality-Aware Structural Alignment', authors: 'X. Li, Y. Yan, Z. Wen, <strong>J. Su</strong>, Q. Chen, Z. Hong', venue: 'Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2026.' },
@@ -284,19 +282,8 @@
     updateAuthorToggles();
     window.addEventListener('resize', updateAuthorToggles, { passive: true });
 
-    function copyText(text, event) {
-      const showToast = () => {
-        const toast = document.getElementById('toast');
-        if (event) {
-          const x = Math.min(Math.max(event.clientX, 12), window.innerWidth - 12);
-          const y = Math.min(Math.max(event.clientY, 48), window.innerHeight - 12);
-          toast.style.setProperty('--toast-x', x + 'px');
-          toast.style.setProperty('--toast-y', y + 'px');
-        }
-        toast.classList.add('show');
-        setTimeout(() => toast.classList.remove('show'), 2000);
-      };
-      navigator.clipboard.writeText(text).then(showToast).catch(() => { showToast(); });
+    function copyText(text) {
+      navigator.clipboard?.writeText(text).catch(() => {});
     }
     document.getElementById('astronaut-btn').addEventListener('click', (event) => copyText('Jie Su is an Assistant Professor at the Institute of Cyber Security, Zhejiang University of Technology. His research focuses on signal processing, machine learning, Internet of Things, and non-stationary signals.', event));
     document.getElementById('email-copy').addEventListener('click', (event) => { event.preventDefault(); copyText('jiesu@zjut.edu.cn', event); });
